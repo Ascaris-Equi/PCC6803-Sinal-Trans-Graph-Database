@@ -5,7 +5,7 @@ At present, It only provide parts of the content for demonstration. If you want 
 
 The GraphNavigator not only helps you see the core and main parts of the dataset, but also provides an overview of the graph dataset.
 
-[GraphNavigator]([https://ascaris-equi.github.io/PCC6803-Sinal-Trans-Graph-Database/GraphNavigator)
+[GraphNavigator](https://ascaris-equi.github.io/PCC6803-Sinal-Trans-Graph-Database/GraphNavigator)
 
 The NodeExplorer helps you find the desired node and the subnet composed of nodes that have a certain relationship with it.
 
