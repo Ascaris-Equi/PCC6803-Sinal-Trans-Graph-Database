@@ -30,7 +30,7 @@
     <script type="text/javascript">
         igraph.i18n.setLanguage("chs");
         var app = new igraph.GraphNavigator(document.getElementById('graphArea'), 'LIGHT');
-        app.loadGson("depression.json", {
+        app.loadGson("data.json", {
             "onGetNodeDescription": function (node) {
                 console.log(node)
                 var description = "<p align=center>";
